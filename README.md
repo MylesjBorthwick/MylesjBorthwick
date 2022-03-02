@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MylesjBorthwick
 - 👀 I’m interested in Web Development and Design
-- 🌱 I’m currently learning Vue.js through a couple personal website projects
+- 🌱 I’m currently learning Vue.js as well as React through a couple personal website projects
 
 
 <!---
