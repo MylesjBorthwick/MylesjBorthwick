@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MylesjBorthwick
 - 👀 I’m interested in Full Stack Development, Design and Engineering
-- 🌱 I’m currently learning Vue.js and React through personal projects
+- 🌱 I’m currently expanding my knowledge of Vue.js and React through personal projects
 
 
 <!---
